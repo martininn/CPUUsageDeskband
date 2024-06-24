@@ -8,6 +8,7 @@ Currently only for dark mode
 ## How to use
 
 Using the SharpShell [ServerRegistrationManager](https://github.com/dwmkerr/sharpshell/blob/main/docs/srm/srm.md):
+- Go to project properties -> Signing -> Check the "Sign the assembly" box and create a new .snk file
 - Build project (to generate dll)
 - Install/Register using `srm`:
 ```srm install <dllname.dll>```
