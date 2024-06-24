@@ -16,3 +16,4 @@ Using the SharpShell [ServerRegistrationManager](https://github.com/dwmkerr/shar
 Uninstall/Unregister:
 ```srm uninstall <dllname.dll>```
 - Restart explorer and clean solution to make changes, then build again
+- Repeat from the top
