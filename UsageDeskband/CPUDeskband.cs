@@ -27,7 +27,7 @@ namespace UsageDeskband
                 IsSunken = false,
                 ShowTitle = true,
                 Title = "CPU Usage",
-                UseBackgroundColour = true,
+                UseBackgroundColour = false,
                 AlwaysShowGripper = true
             };
         }

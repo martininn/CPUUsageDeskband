@@ -16,6 +16,7 @@ namespace UsageDeskband
         private PerformanceCounter cpuCounter;
         public DeskBandUI()
         {
+            this.BackColor = Color.Black;
             InitializeComponent();
 
             cpuCounter = new PerformanceCounter("Processor", "% Processor Time", "_Total");
