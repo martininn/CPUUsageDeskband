@@ -1,7 +1,7 @@
 # UsageDeskband (WIP)
 
 A functioning deskband only tested on Windows 10, using [SharpShell](https://github.com/dwmkerr/sharpshell).
-Currently only for dark mode
+Currently only best for dark mode
 
 ![CPU Deskband image](https://kompis.s-ul.eu/jOyr6bLo)
 
